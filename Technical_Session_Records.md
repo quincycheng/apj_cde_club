@@ -8,8 +8,15 @@
   - CyberArk Privilege Cloud Support
   - What’s new and what’s around the corner
   - CyberArk Privilege Cloud Success in APJ and globally
-- [The Session Record](https://cyberark.kiteworks.com/w/aoJaGcafa930GzaF)
+- [Session Record](https://cyberark.kiteworks.com/w/aoJaGcafa930GzaF)
 
-## 24 February 2021 
-- [Integrating CyberArk DAP with AWS EKS](https://cyberark.kiteworks.com/w/8w9NOJCTliDnWrRd)
+## [24 February 2021 - Integrating CyberArk DAP with AWS EKS](https://cyberark.kiteworks.com/w/8w9NOJCTliDnWrRd)
+- In this session, you will learn on how to secure secrets for AWS EKS applications using CyberArk Dynamic Access Provider (DAP). We will be covering:
+- Agenda
+  - Deploying DAP Master Container in Docker environment.
+  - Deploying DAP follower instances in EKS
+  - Deploying a sample container application in EKS that will securely fetch secrets from DAP without using passwords or keys
+  - Deploying Kubernetes Authenticator Client and Summon
+  - Deploying Secretless Broker Sidecar.
+- [Session Record](https://cyberark.kiteworks.com/w/8w9NOJCTliDnWrRd)
 - [Lab Guide](https://github.com/ivanckleecity/CyberArk-DAP-EKS-Lap-2021)
