@@ -20,3 +20,11 @@
   - Deploying Secretless Broker Sidecar.
 - [Session Record](https://cyberark.kiteworks.com/w/8w9NOJCTliDnWrRd)
 - [Lab Guide](https://github.com/ivanckleecity/CyberArk-DAP-EKS-Lap-2021)
+
+## [CyberArk Security Services Overview](https://cyberark.kiteworks.com/w/XmP7QcQzLaMDSGzT)
+- In this session, we will cover an overview of CyberArk's Services, the value of CyberArk Services and how our services help thousands of businesses accelerate and drive adoption.
+- Agenda
+  - Why CyberArk Services?
+  - Services Overview
+  - Services Packages
+- [Session Record](https://cyberark.kiteworks.com/w/XmP7QcQzLaMDSGzT)
