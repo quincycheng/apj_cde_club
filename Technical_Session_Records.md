@@ -8,7 +8,7 @@
   - CyberArk Privilege Cloud Support
   - What’s new and what’s around the corner
   - CyberArk Privilege Cloud Success in APJ and globally
-- [Implementing CyberArk Privilege Cloud](https://cyberark.kiteworks.com/w/aoJaGcafa930GzaF)
+- [Implementing CyberArk Privilege Cloud Session Record](https://cyberark.kiteworks.com/w/aoJaGcafa930GzaF)
 
 ## 24 February 2021 
 - [Integrating CyberArk DAP with AWS EKS](https://cyberark.kiteworks.com/w/8w9NOJCTliDnWrRd)
