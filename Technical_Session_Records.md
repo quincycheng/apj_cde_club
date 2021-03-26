@@ -10,7 +10,7 @@
   - CyberArk Privilege Cloud Success in APJ and globally
 - [Session Record](https://cyberark.kiteworks.com/w/aoJaGcafa930GzaF)
 
-## [24 February 2021 - Integrating CyberArk DAP with AWS EKS](https://cyberark.kiteworks.com/w/8w9NOJCTliDnWrRd)
+## [24 February 2021 - Integrating CyberArk Conjur with AWS EKS](https://cyberark.kiteworks.com/w/8w9NOJCTliDnWrRd)
 - In this session, you will learn on how to secure secrets for AWS EKS applications using CyberArk Conjur Enterprise.
 - Agenda
   - Deploying DAP Master Container in Docker environment.
