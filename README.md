@@ -5,3 +5,5 @@ Welcome to CyberArk APJ Certified Delivery Engineer (CDE) Club Portal. In this p
 
 
 ## [CDE Club Techincal Session Records](Technical_Session_Records.md)
+
+## [Technical Articles](Technical_Articles.md)
