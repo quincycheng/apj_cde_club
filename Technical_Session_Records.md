@@ -1,5 +1,20 @@
 # Techincal Session Records
 
+## 22 April 2021 - CyberArk Marketplace and C3 Alliance for PAS Reporter, ProofPoint and Blue Prism
+- PAS Reporter
+  - Have you always wondered what is the usage trend of your CyberArk PAM infrastructure? How many account are managed? How many privileged sessions are established everyday? What are the user types used up? Join us for this session to find out how CyberArk PAS Repoter can provide you meaningful answers to all these questions and more about the your CyberArk PAM infrastructure.
+- ProofPoint
+  - Overview of ProofPoint Targeted Attack protection
+  - Overview of CyberArk and ProofPoint integration points and benefits
+  - Detecting and stopping email threats targeting people with ProofPoint solution
+  - Applying Adaptive controls using CyberArk Solution
+- Blue Prism
+  - The three key takeaways you will learn during this session:
+  - What is Robot Process Automation (RPA)?
+  - Why do organizations adopt RPA?
+  - How can CyberArk help secure this “island of security”?
+- [Session Record](https://cyberark.kiteworks.com/w/T1y6AFiGL6Sqa30A)
+
 ## 7 April 2021 - CorePAS Troubleshooting and XRAY Agent
 - This session will focus on generic troubleshooting of CyberArk CorePAS solution. You will learn:
 - Agenda
