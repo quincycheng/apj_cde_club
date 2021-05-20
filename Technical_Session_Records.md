@@ -1,6 +1,6 @@
 # Techincal Session Records
 
-## 20 May 2021 - APJ CDE - Implementing PTA
+## 20 May 2021 - Implementing PTA
 - In this session, CyberArk will be discussing PTA benefits and how to implement PTA in a customer environment. The objectives of this session are for you to understand the following:
   - PTA use cases
   - PTA Architecture
