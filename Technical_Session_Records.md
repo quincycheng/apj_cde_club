@@ -2,14 +2,14 @@
 
 ## 20 May 2021 - APJ CDE - Implementing PTA
 - In this session, CyberArk will be discussing PTA benefits and how to implement PTA in a customer environment. The objectives of this session are for you to understand the following:
- - PTA use cases
- - PTA Architecture
- - PTA Implementation
- - PTA integrations
- - Customer use cases
- - Why PTA
+  - PTA use cases
+  - PTA Architecture
+  - PTA Implementation
+  - PTA integrations
+  - Customer use cases
+  - Why PTA
 - [Session Record](https://cyberark.kiteworks.com/w/RqEUEiAuXKKD8HMn)
-- 
+
 ## 22 April 2021 - CyberArk Marketplace and C3 Alliance for PAS Reporter, ProofPoint and Blue Prism
 - PAS Reporter
   - Have you always wondered what is the usage trend of your CyberArk PAM infrastructure? How many account are managed? How many privileged sessions are established everyday? What are the user types used up? Join us for this session to find out how CyberArk PAS Repoter can provide you meaningful answers to all these questions and more about the your CyberArk PAM infrastructure.
