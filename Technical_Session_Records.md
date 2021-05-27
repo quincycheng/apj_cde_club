@@ -1,5 +1,14 @@
 # Techincal Session Records
 
+## 27 May 2021 - In-depth troubleshooting of a multi-vault Distributed Vault setup.
+- Agenda
+  - Setup Tips and tricks
+  - Distributed Vault troubleshooting
+  - Satellite Vault Clients Support
+  - Fail-over | Fail-back
+- [Session Record](https://cyberark.kiteworks.com/w/PVcHweR5mJLN2uHr)
+- [Configuration Guide](https://cyberark.kiteworks.com/w/4RMPy1mxTy0J6zjK)
+
 ## 20 May 2021 - Implementing PTA
 - In this session, CyberArk will be discussing PTA benefits and how to implement PTA in a customer environment. The objectives of this session are for you to understand the following:
   - PTA use cases
