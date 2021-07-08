@@ -3,7 +3,7 @@
 ## 7 July 2021 - Pitching DevSecOps to Sec, not Dev.
 - Our sales champions from customer organizations often comes from security. While CyberArk Secrets Manager works seamlessly with DevOps tools, it works perfectly with automation for security related operations as well. Meaning that we can pitch & sell Secrets Manager to security professionals, without getting developers involved.
 - In this session, we will share how secrets are being used in automated workflows by security relation operations, how they could be designed.   We will make use of managing entitlements on the cloud platforms by CyberArk Cloud Entitlements Manager (CEM) as example, and demonstrate what a SecOps pipeline could look like, with all secrets being secured.
-- Speaker: Quincy Cheng, Senior Solutions Engineer, CyberArk Asia Pacific & Japan
+- Speaker: Quincy Cheng, CyberArk APJ DevOps Manage
 - [Session Record](https://cyberark.kiteworks.com/w/f-c38fb827-4e18-4c08-9016-5e02ebc180c5)
 
 ## 27 May 2021 - In-depth troubleshooting of a multi-vault Distributed Vault setup.
