@@ -12,7 +12,7 @@
   - Basic troubleshooting steps for common PSM and PSM-WebApplication related issues.
   - How to identify PSM for recordings/session in load-balanced environment
  - Speaker
-  - Aaron Lim, Senior Enterprise Support Engineer
+   -Aaron Lim, Senior Enterprise Support Engineer
 - [Session Record](https://cyberark.kiteworks.com/w/f-c813080d-d007-4661-aed4-f7ff67ea1f93)
 
 ## 14 July 2021 - What's New v2021-1.0
