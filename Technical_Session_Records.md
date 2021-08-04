@@ -1,5 +1,20 @@
 # Techincal Session Records
 
+## 4 Aug 2021 - PSM-Web Plug-in Troubleshooting
+- This session will consist of:
+- Basic PSM trouleshooting
+  - Describe the basic flow for troubleshooting issues in the CyberArk environment
+  - Utilize the CyberArk knowledge base for troubleshooting common issues
+  - Perform basic troubleshooting tasks related to PSM
+  - Describe what logs are available
+  - Collect logs for support
+  - Change log levels
+  - Basic troubleshooting steps for common PSM and PSM-WebApplication related issues.
+  - How to identify PSM for recordings/session in load-balanced environment
+ - Speaker
+  - Aaron Lim, Senior Enterprise Support Engineer
+- [Session Record](https://cyberark.kiteworks.com/w/f-c813080d-d007-4661-aed4-f7ff67ea1f93)
+
 ## 14 July 2021 - What's New v2021-1.0
 - This session will provide information and value of the new capabilities from CyberArk.
 - Speakers
