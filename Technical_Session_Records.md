@@ -8,7 +8,7 @@
   - Simple AWS Networking Troubleshooting
 - Speakers:
   - Andy Goh, CyberArk Senior Enterprise Support Engineer, ASEAN
-  - Che-Wing Cheung, CyberArk Technical Enablement Engineer, ASEAN
+  - Che Wing Cheung, CyberArk Technical Enablement Engineer, ASEAN
 - [Session Record](https://cyberark.kiteworks.com/w/f-7c622304-39ec-48f3-94c4-b891ed1477b3)
 
 ## 4 Aug 2021 - PSM-Web Plug-in Troubleshooting
