@@ -1,5 +1,16 @@
 # Techincal Session Records
 
+## 18 Aug 2021 - Troubleshooting CyberArk PAM in Cloud Setup
+- In the session, you will learn the following troubleshooting skill for PAM on Cloud setup
+  - Setting up Vault/ Components using Cloud Formation Templates or Azure RM Template
+  - Troubleshooting Registration Failures
+  - Setting up Vault/ Components manually using AWS AMI/ Azure VHD
+  - Simple AWS Networking Troubleshooting
+- Speakers:
+  - Andy Goh, CyberArk Senior Enterprise Support Engineer, ASEAN
+  - Che-Wing Cheung, CyberArk Technical Enablement Engineer, ASEAN
+- [Session Record](https://cyberark.kiteworks.com/w/f-7c622304-39ec-48f3-94c4-b891ed1477b3)
+
 ## 4 Aug 2021 - PSM-Web Plug-in Troubleshooting
 - This session will consist of:
 - Basic PSM trouleshooting
