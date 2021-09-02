@@ -1,5 +1,15 @@
 # Techincal Session Records
 
+## 1 Sept 2021 - Catch Me If You Can
+- Most people know hacker attack the endpoint first, then from there start to attack other internal major systems. Do you want to learn how to compromise Endpoint and steal credentials? Then next follow up questions you will ask to learn will be how to defense the attack. This CDE Club session will show you all of them!
+  - Learn how to compromise Endpoint and steal privilege account credentials
+  - Learn how to defense the attack by…
+    - Enforce Least Privilege
+    - Privilege Threat Protection
+- Speakers:
+  - Ivan Lee, CyberArk Solutions Engineer, Channel APJ
+- [Session Record](https://cyberark.kiteworks.com/w/f-df425159-f8f5-4317-a041-e8c4a0f46a79) 
+
 ## 18 Aug 2021 - Troubleshooting CyberArk PAM in Cloud Setup
 - In the session, you will learn the following troubleshooting skill for PAM on Cloud setup
   - Setting up Vault/ Components using Cloud Formation Templates or Azure RM Template
