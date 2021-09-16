@@ -1,5 +1,18 @@
 # Techincal Session Records
 
+## 15 Sept 2021 - Road to Endpoint Privilege
+- In this session, CyberArk will be discussing the implementation of Endpoint Privilege Manager (EPM) and how to perform an EPM Quick Start in a customer environment. The objectives of this session are for you to understand the following:
+  - CyberArk Endpoint Privilege Manager
+  - Project Objective and Goals
+  - EPM Quick Start
+  - Common Objection and Roadblocks
+  - Tips and Tricks to Success
+- Speakers:
+  - Jitson Ong, Solutions Engineer, CyberArk Asia Pacific & Japan
+  - Josiah Winston, Solutions Engineer, CyberArk ASEAN
+  - Troy Cunningham, Senior Solutions Engineer, CyberArk Australia & New Zealand
+- [Session Record](https://cyberark.kiteworks.com/w/f-5366674d-0a4f-4773-a5a0-fda2d5423167) 
+
 ## 01 Sept 2021 - Catch Me If You Can
 - Most people know hacker attack the endpoint first, then from there start to attack other internal major systems. Do you want to learn how to compromise Endpoint and steal credentials? Then next follow up questions you will ask to learn will be how to defense the attack. This CDE Club session will show you all of them!
   - Learn how to compromise Endpoint and steal privilege account credentials
