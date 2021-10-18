@@ -1,6 +1,6 @@
 # Techincal Session Records
 
-:bulb: :bangbang: This Portal is for Authorized CyberArk Partners and Certified Engineers only. If you want to request to access records, please contact your APJ local Channel Manager or Sales Engineers :bulb: :bangbang: 
+:bulb: :bangbang: This Portal is for Authorized CyberArk Partners and Certified Engineers only. If you want to access below records, please contact your APJ local Channel Manager or Sales Engineers :bulb: :bangbang: 
 
 ## 06 Oct 2021 - LCD setup, integration and troubleshooting for EPM
 - This session will share about
