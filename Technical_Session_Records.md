@@ -1,5 +1,12 @@
 # Techincal Session Records
 
+## 06 Oct 2021 - LCD setup, integration and troubleshooting for EPM
+- This session will share about
+  - Setup LCD
+  - Password rotation communication flow
+  - Troubleshooting tips
+- [Session Record](https://cyberark.kiteworks.com/w/f-c7ddebfc-4456-4768-b63a-91bc0baa851b)
+
 ## 15 Sept 2021 - Road to Endpoint Privilege
 - In this session, CyberArk will be discussing the implementation of Endpoint Privilege Manager (EPM) and how to perform an EPM Quick Start in a customer environment. The objectives of this session are for you to understand the following:
   - CyberArk Endpoint Privilege Manager
