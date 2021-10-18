@@ -8,9 +8,9 @@
   - Password rotation communication flow
   - Troubleshooting tips
 - Speakers:
-  - Jitson Ong, Solutions Engineer, CyberArk Asia Pacific & Japan
-  - Che-Wing Cheung, Technical Enablement Engineer, CyberArk ASEAN
   - Shi Hao Koh, Enterprise Support Engineer, CyberArk ASEAN
+  - Che-Wing Cheung, Technical Enablement Engineer, CyberArk ASEAN
+  - Jitson Ong, Solutions Engineer, CyberArk Asia Pacific & Japan
 - [Session Record](https://cyberark.kiteworks.com/w/f-c7ddebfc-4456-4768-b63a-91bc0baa851b)
 
 ## 15 Sept 2021 - Road to Endpoint Privilege
