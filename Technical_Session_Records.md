@@ -2,6 +2,16 @@
 
 :bulb: :bangbang: This Portal is for Authorized CyberArk Partners and Certified Engineers only. If you want to access below records, please contact your APJ local Channel Manager or Sales Engineers :bulb: :bangbang: 
 
+## 26 Jan 2022 - CorePAS Troubleshooting and XRAY Agent
+- This session will share about generic troubleshooting of CorePAS
+  - How to enable debug
+  - Where are the logs and configuration files
+  - How to use the logs to troubleshoot common issues (demo)
+  - How to use XRAY and why is it important
+  - What to do before opening a case to CyberArk Support
+- Speaker: Che Wing Cheung, Technical Enablement Engineer, CyberArk Asia Pacific & Japan
+- [Session Record](https://cyberark.kiteworks.com/w/f-69e66d70-e580-4d47-9fad-33324f7af3ca)
+
 ## 06 Oct 2021 - LCD setup, integration and troubleshooting for EPM
 - This session will share about
   - Setup LCD
