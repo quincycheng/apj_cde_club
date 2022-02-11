@@ -2,6 +2,11 @@
 
 :bulb: :bangbang: This Portal is for Authorized CyberArk Partners and Certified Engineers only. If you want to access below records, please contact your APJ local Channel Manager or Sales Engineers :bulb: :bangbang: 
 
+## 9 Feb 2022 - Partner Federation with Okta and Azure
+- In the session we learn together how to configure business partner federation CyberArk Identity as a Service Provider to Identity Provider such as Okta and Azure. The session also demonstrates how to run a specific web application once a user is federated into CyberArk Identity using SAML RelayState. This is useful in cases where the customer is using a 3rd party Identity Provider and wants to leverage Secure Web Sessions seamlessly for step recording, session protection and continuous authentication.
+- Speaker: Ivan Lai, CyberArk Solution Strategy Architect - Asia Pacific & Japan
+- [Session Record](https://cyberark.kiteworks.com/w/f-86e44326-bb10-41c7-8d6f-dde124361b6c)
+
 ## 26 Jan 2022 - CorePAS Troubleshooting and XRAY Agent
 - This session will share about generic troubleshooting of CorePAS
   - How to enable debug
@@ -9,7 +14,7 @@
   - How to use the logs to troubleshoot common issues (demo)
   - How to use XRAY and why is it important
   - What to do before opening a case to CyberArk Support
-- Speaker: Che Wing Cheung, Technical Enablement Engineer, CyberArk Asia Pacific & Japan
+- Speaker: Che Wing Cheung, CyberArk Technical Enablement Engineer, Asia Pacific & Japan
 - [Session Record](https://cyberark.kiteworks.com/w/f-69e66d70-e580-4d47-9fad-33324f7af3ca)
 
 ## 06 Oct 2021 - LCD setup, integration and troubleshooting for EPM
