@@ -3,7 +3,7 @@
 :bulb: :bangbang: This Portal is for Authorized CyberArk Partners and Certified Engineers only. If you want to access below records, please contact your APJ local Channel Manager or Sales Engineers :bulb: :bangbang: 
 
 ## 23 Feb 2022 - What the New V2022-1.0
-- This session will provide information CyberArk Product news update
+- This session will provide CyberArk Product news update information
 - Speakers
   - Budiman Tsjin, CyberArk Solutions Engineering Director, ASEAN
   - Quincy Cheng, CyberArk DevOps Manager, APJ
