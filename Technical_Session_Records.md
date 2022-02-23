@@ -2,6 +2,16 @@
 
 :bulb: :bangbang: This Portal is for Authorized CyberArk Partners and Certified Engineers only. If you want to access below records, please contact your APJ local Channel Manager or Sales Engineers :bulb: :bangbang: 
 
+## 23 Feb 2022 - What the New V2022-1.0
+- This session will provide information CyberArk Product news update
+- Speakers
+  - Budiman Tsjin, CyberArk Solutions Engineering Director, ASEAN
+  - Quincy Cheng, CyberArk DevOps Manager, APJ
+  - Jitson Ong, CyberArk Solutions Architect, APJ
+  - Ivan Lai, CyberArk Solution Strategy Architect, APJ 
+  - Ivan Lee, Cyberark Strategic Alliance Solutions Engineer - APJ
+- [Session Record](https://cyberark.kiteworks.com/w/f-13be72c1-0290-456a-af6e-b48b7f095d8d)
+
 ## 9 Feb 2022 - Partner Federation with Okta and Azure
 - In the session we learn together how to configure business partner federation CyberArk Identity as a Service Provider to Identity Provider such as Okta and Azure. The session also demonstrates how to run a specific web application once a user is federated into CyberArk Identity using SAML RelayState. This is useful in cases where the customer is using a 3rd party Identity Provider and wants to leverage Secure Web Sessions seamlessly for step recording, session protection and continuous authentication.
 - Speaker: Ivan Lai, CyberArk Solution Strategy Architect - Asia Pacific & Japan
