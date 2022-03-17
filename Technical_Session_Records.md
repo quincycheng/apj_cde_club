@@ -2,6 +2,12 @@
 
 :bulb: :bangbang: This Portal is for Authorized CyberArk Partners and Certified Engineers only. If you want to access below records, please contact your APJ local Channel Manager or Sales Engineers :bulb: :bangbang: 
 
+## 16 March 2022 - Privilege Cloud Implementation
+- CyberArk Privilege Cloud is a SaaS solution that enables organizations to securely store, rotate and isolate credentials (for both human and non-human users), monitor sessions, and deliver scalable risk reduction to the business. In this session we would like to give more insights on Privilege Cloud and also how we collaborate with our Partners in delivering Privilege Cloud Services. Below will be agenda for this session,
+- Speakers
+  - Ivan Lee, Cyberark Strategic Alliance Solutions Engineer - APJ
+- [Session Record](https://cyberark.kiteworks.com/w/f-da2ca5eb-af15-4022-93df-79a9530c3244)
+
 ## 23 Feb 2022 - What the New V2022-1.0
 - This session will provide CyberArk Product news update information
 - Speakers
